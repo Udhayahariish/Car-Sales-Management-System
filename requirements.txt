@@ -1,1 +1,12 @@
-pandas>=2.0.0
+Python 3.10+
+
+## 📦 Requirements
+
+- Python 3.10 or higher
+- Pandas 3.0+
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
